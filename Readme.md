@@ -2,7 +2,7 @@
 
 ## Game Image
 
-![Snake Game]() 
+!![alt text](https://github.com/Ethan-Eill/Snake/blob/main/images/CPSC_4160_Snake_Game.png?raw=true)
 
 ## Program Versions
 * OS Version: Windows
@@ -22,7 +22,7 @@ The snake game was developed using object-oriented programming to organize the c
 We decided to choose this approach because it allowed for a clear separation of concerns as well as making it easier to understand and modify the code. This way the code is more maintainable and easier to look at.
 
 ## Image of Classes/Functions
-![Diagram]()
+!![alt text](https://github.com/Ethan-Eill/Snake/blob/main/images/Project_1_Diagram.png?raw=true)
 
 ## Future Work
 The snake game can be further enhanced by:
